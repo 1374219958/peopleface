@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T03:27:37.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="8Ld5plfJapWLqFd0OsM9" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:57:28.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="BR4_4L-SH74p1nix0vIO" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="996" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,76 +8,76 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="输入一段患者的临床描述信息" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="150" width="380" height="40" as="geometry" />
+          <mxGeometry x="160" y="229" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rnY7UrIKa5mlGTqYV3wB-8" target="rnY7UrIKa5mlGTqYV3wB-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-8" value="使用语义识别从临床信息中提取表型" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="230" width="380" height="40" as="geometry" />
+          <mxGeometry x="160" y="309" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ArTBs9vZCOjfMz9yab7Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rnY7UrIKa5mlGTqYV3wB-9" target="rnY7UrIKa5mlGTqYV3wB-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-9" value="使用语义相似度映射到标准表型" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="310" width="380" height="40" as="geometry" />
+          <mxGeometry x="160" y="389" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-24" value="" style="endArrow=none;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="172" as="sourcePoint" />
-            <mxPoint x="580" y="142" as="targetPoint" />
+            <mxPoint x="540" y="251" as="sourcePoint" />
+            <mxPoint x="580" y="221" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="172" />
-              <mxPoint x="560" y="142" />
+              <mxPoint x="550" y="251" />
+              <mxPoint x="560" y="221" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnY7UrIKa5mlGTqYV3wB-25" value="步骤2" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="130" width="50" height="30" as="geometry" />
+        <mxCell id="rnY7UrIKa5mlGTqYV3wB-25" value="步骤3" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="575" y="208" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-26" value="" style="endArrow=none;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="252" as="sourcePoint" />
-            <mxPoint x="580" y="222" as="targetPoint" />
+            <mxPoint x="540" y="331" as="sourcePoint" />
+            <mxPoint x="580" y="301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="252" />
-              <mxPoint x="560" y="222" />
+              <mxPoint x="550" y="331" />
+              <mxPoint x="560" y="301" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnY7UrIKa5mlGTqYV3wB-27" value="步骤3" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="210" width="50" height="30" as="geometry" />
+        <mxCell id="rnY7UrIKa5mlGTqYV3wB-27" value="步骤4" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="575" y="289" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-28" value="" style="endArrow=none;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="332" as="sourcePoint" />
-            <mxPoint x="580" y="302" as="targetPoint" />
+            <mxPoint x="540" y="411" as="sourcePoint" />
+            <mxPoint x="580" y="381" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="332" />
-              <mxPoint x="560" y="302" />
+              <mxPoint x="550" y="411" />
+              <mxPoint x="560" y="381" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnY7UrIKa5mlGTqYV3wB-29" value="步骤4" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="290" width="50" height="30" as="geometry" />
+        <mxCell id="rnY7UrIKa5mlGTqYV3wB-29" value="步骤5" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="575" y="369" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rnY7UrIKa5mlGTqYV3wB-32" value="使用基于表型相似度的疾病预测算法输出预测的罕见疾病" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="396" width="380" height="40" as="geometry" />
+        <mxCell id="rnY7UrIKa5mlGTqYV3wB-32" value="使用基于表型语义相似度的疾病预测算法输出预测的罕见疾病" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="475" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rnY7UrIKa5mlGTqYV3wB-33" value="" style="endArrow=none;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="418" as="sourcePoint" />
-            <mxPoint x="580" y="388" as="targetPoint" />
+            <mxPoint x="540" y="497" as="sourcePoint" />
+            <mxPoint x="580" y="467" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="418" />
-              <mxPoint x="560" y="388" />
+              <mxPoint x="550" y="497" />
+              <mxPoint x="560" y="467" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rnY7UrIKa5mlGTqYV3wB-34" value="步骤6" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="376" width="50" height="30" as="geometry" />
+        <mxCell id="rnY7UrIKa5mlGTqYV3wB-34" value="步骤7" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="575" y="455" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9cG7aK20crFb2Dy1DpVD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cG7aK20crFb2Dy1DpVD-1" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+        <mxCell id="ltzEdUW_IO9t6XMZEcnM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cG7aK20crFb2Dy1DpVD-1" target="ltzEdUW_IO9t6XMZEcnM-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9cG7aK20crFb2Dy1DpVD-1" value="构建表型-罕见疾病网络数据库" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -95,6 +95,25 @@
         </mxCell>
         <mxCell id="9cG7aK20crFb2Dy1DpVD-3" value="步骤1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="575" y="50" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ltzEdUW_IO9t6XMZEcnM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ltzEdUW_IO9t6XMZEcnM-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltzEdUW_IO9t6XMZEcnM-0" value="基于表型语义相似性算法构建表型-表型相似度网络" style="rounded=1;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="151" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ltzEdUW_IO9t6XMZEcnM-1" value="" style="endArrow=none;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="173" as="sourcePoint" />
+            <mxPoint x="580" y="143" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="173" />
+              <mxPoint x="560" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltzEdUW_IO9t6XMZEcnM-2" value="步骤2" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="130" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
